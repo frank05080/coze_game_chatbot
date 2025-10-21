@@ -1,0 +1,3 @@
+cozepy==0.12.0
+pygame
+gymnasium[classic_control]
